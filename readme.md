@@ -1,5 +1,5 @@
 # Simple Tailwind CSS Starter
-
+(Brad Traversy course , will be used for references later )
 This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
 
 ## Usage
